@@ -10,7 +10,7 @@ Please develop an application that can take a picture using the device camera, t
 
 - A starter project (P2_skel.zip) with;
   - A module library (bitmap\_utilities) contains
-    - Bitmap\_Helpers – A wrapper class exposing image manipulation routines you will need for this project
+    - Bitmap_Helpers – A wrapper class which simplifies and exposes image manipulation routines. Prefer these to other classes in this library
     - Other imaging processing static functions
   - A module Project2\_Solution\_Color which is where you will do most of your work.
   - This is also the module that you run the project from
@@ -29,6 +29,15 @@ Please develop an application that can take a picture using the device camera, t
 7. If you have taken a picture with the app or processed it using the sketch or colorize button then when you start the app the next time this should be th image it shows you
 8. When you hit the reset button the app will again show the default image (see 5)
 
+**Grading;**
+10% colorize
+10% sketchify
+20% share
+10% implicit camera intent set up with URI for file
+10% onActivityResult handles both requestCode and resultCode as well as URI correctly
+10% correctly implemented, error free gradle files (make sure your
+10% permissions
+10% settings and p
 
 
 **Project Hints**
