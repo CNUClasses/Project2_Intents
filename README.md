@@ -30,14 +30,15 @@ Please develop an application that can take a picture using the device camera, t
 8. When you hit the reset button the app will again show the default image (see 5)
 
 **Grading;**
-10% colorize
-10% sketchify
-20% share
-10% implicit camera intent set up with URI for file
-10% onActivityResult handles both requestCode and resultCode as well as URI correctly
-10% correctly implemented, error free gradle files
-10% permissions
-10% settings and preference change listeners
+
+10% colorize<br>
+10% sketchify<br>
+20% share<br>
+10% implicit camera intent set up with URI for file<br>
+10% onActivityResult handles both requestCode and resultCode as well as URI correctly<br>
+10% correctly implemented, error free gradle files<br>
+10% permissions<br>
+10% settings and preference change listeners<br>
 
 **Project Hints**
 
